@@ -2,7 +2,7 @@
 
 Convert old eAthena-based scripts into modern syntax. Written in Go.
 
----
+![](https://i.imgur.com/ICPElmb.png)
 
 ### Install
 
